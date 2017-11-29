@@ -9,3 +9,4 @@ This repo consists of all challenges in [JavaScript30](https://javascript30.com/
 ## Contents
 
 1. [JavaScript Drum Kit](https://github.com/AK-007/JavaScript30/tree/master/01%20-%20JavaScript%20Drum/)
+2. [CSS-JS Clock](https://github.com/AK-007/JavaScript30/tree/master/02%20-%20CSS-JS%20Clock/)
