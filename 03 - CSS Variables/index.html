@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF8">
+<title>CSS Variables</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet">
+</head>
+<body>
+	<h1>Changing the <span id="head">Color</span> is way to easy!!</h1>
+	<div class="controller">
+		<label for="spacing">Spacing</label>
+		<input id="spacing" min="10" max="100" type="range" value="10" data-sizing="px">
+		<label for="blur">Blur</label>
+		<input id="blur" min="0" max="100" type="range" value="50" data-sizing="px">
+		<label for="color">Color</label>
+		<input id="color" type="color" value="#EF233C">
+	</div>	
+	<img id="image" src="https://static.pexels.com/photos/691541/pexels-photo-691541.jpeg" width="700px" height="500px">
+	<script src="logic.js"></script>
+</body>
+</html>
